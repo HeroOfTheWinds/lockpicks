@@ -1,5 +1,6 @@
 default
 moreores
+doors
 technic?
 locks?
 pipeworks?
